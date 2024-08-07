@@ -2,6 +2,8 @@
 
 This is a TypeScript implementation of the classic Breakout game. The game is developed without using the `<canvas>` element, making it a unique learning project. **Work is still in progress.**
 
+![Gameplay](gameplay.png)  
+
 ## Getting Started
 
 To get started with the project, follow these steps:
